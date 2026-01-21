@@ -3,13 +3,13 @@
 ### Acceso directo (Binder)
 
 - **Notebook 1 – Introducción al modelo 1D y a climlab**  
-  👉 [Abrir en Binder](https://mybinder.org/v2/gh/RDiazSierra/ModelosClimaticos_MGCC_PED/main?filepath=PED1_EBM_1D/PED1_1_Intro_Climlab_1D.ipynb)
-
+  [Abrir en Binder](https://mybinder.org/v2/gh/RDiazSierra/ModelosClimaticos_MGCC_PED/main?filepath=PED1_EBM_1D/PED1_1_Intro_Climlab_1D.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RDiazSierra/PED1_1_Intro_Climlab_1D.ipynb)
 - **Notebook 2 – Respuesta al forzamiento radiativo (albedo constante)**  
-  👉 [Abrir en Binder](https://mybinder.org/v2/gh/RDiazSierra/ModelosClimaticos_MGCC_PED/main?filepath=PED1_EBM_1D/PED1_2_Forzamiento_AlbedoCte.ipynb)
+  [Abrir en Binder](https://mybinder.org/v2/gh/RDiazSierra/ModelosClimaticos_MGCC_PED/main?filepath=PED1_EBM_1D/PED1_2_Forzamiento_AlbedoCte.ipynb)
 
 - **Notebook 3 – Retroalimentación hielo–albedo e histéresis**  
-  👉 [Abrir en Binder](https://mybinder.org/v2/gh/RDiazSierra/ModelosClimaticos_MGCC_PED/main?filepath=PED1_EBM_1D/PED1_3_Hielo_Albedo_Histeresis.ipynb)
+  [Abrir en Binder](https://mybinder.org/v2/gh/RDiazSierra/ModelosClimaticos_MGCC_PED/main?filepath=PED1_EBM_1D/PED1_3_Hielo_Albedo_Histeresis.ipynb)
 
 ---
 
