@@ -65,7 +65,8 @@ evaluación se encuentran en el documento oficial de la asignatura.
 ## Requisitos técnicos
 
 El entorno de ejecución está definido en el archivo `requirements.txt`.
-Binder se encarga automáticamente de instalar las dependencias necesarias.
+Los notebooks se ejecutan mediante Binder.  
+Consulta los README de cada PED para acceder directamente a los notebooks.
 
 
 
