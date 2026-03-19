@@ -1,9 +1,9 @@
-# PED 5 – Análisis Básico de datos climáticos ERA5 con Phyton
+# PED 5 – Análisis Básico de datos climáticos
 
 ### Acceso directo (Binder)
 
-- **Notebook – Modelos simplificados de optimización global vs. dinámico-recursivos**  
-  [Abrir en Binder](https://mybinder.org/v2/gh/RDiazSierra/ModelosClimaticos_MGCC_PED/main?filepath=PED3IntroIAM/PED3_IntroIAM.ipynb)
+- **Notebook – Análisis Básico de datos climáticos ERA5 con Phyton**  
+  [Abrir en Binder](https://mybinder.org/v2/gh/RDiazSierra/ModelosClimaticos_MGCC_PED/main?filepath=PED5_ERA5Phyt/PED5_ERA5Phyton.ipynb)
 
 
 ---
