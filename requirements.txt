@@ -5,3 +5,5 @@ xarray
 netCDF4
 climlab
 pooch
+pandas
+geopandas
